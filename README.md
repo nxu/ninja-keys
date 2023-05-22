@@ -1,3 +1,15 @@
+# Warning
+> ℹ️ **Important**
+>
+> This is a temporary package containing an important hotfix for the original package: 
+> https://github.com/ssleptsov/ninja-keys
+>
+> The issue was fixed by @oddcelot in https://github.com/ssleptsov/ninja-keys/pull/30 but has been awaiting merge for
+> about a year
+>
+> To install, run `npm install @nxu/ninja-keys`
+---
+
 # Ninja Keys
 
 Keyboard shortcut interface for your website that works with Vanilla JS, Vue, and React.
