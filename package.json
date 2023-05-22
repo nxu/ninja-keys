@@ -1,6 +1,6 @@
 {
   "name": "@nxu/ninja-keys",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Ninja Keys",
   "main": "dist/ninja-keys.js",
   "module": "dist/ninja-keys.js",
